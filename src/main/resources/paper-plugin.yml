@@ -1,0 +1,15 @@
+name: WaveCityAtack
+version: '${version}'
+main: org.thenewempire.wavecityatack.WaveCityAtack
+api-version: '1.20'
+commands:
+  helloworld:
+    description: "Say hello world!"
+    usage: "Usage: /helloworld"
+    permission: wavecityatack.helloworld
+    permission-message: "You don't have the helloworldpaper.helloworld permission."
+  mobspawn:
+    description: "Say hello world!"
+    usage: "Usage: /mobspawn"
+    permission: wavecityatack.mobspawn
+    permission-message: "You don't have the helloworldpaper.mobspawn permission."
